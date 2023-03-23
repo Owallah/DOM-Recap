@@ -1,0 +1,9 @@
+#title{
+    color: blue;
+    transition: 0.5s;
+}
+#title:hover{
+    color: goldenrod;
+    font-size: 50px;
+    font-style: oblique;
+}
